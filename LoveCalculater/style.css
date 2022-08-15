@@ -1,0 +1,26 @@
+*{
+    margin:8;
+    padding:8;
+    font-family: Century-Gothic;
+}
+body{
+    text-align: center;
+    background-color: whitesmoke;
+}
+.scale{
+    text-align:left;
+}
+#get-calculate{
+    margin: 0 auto;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 10px;
+    height: 45px;
+    background-color: darkorange;
+    color: white;
+    border-color: darkorange;
+}
+#get-calculate:hover{
+    background-color: orange;
+    transition: 0.5s ease;
+}
